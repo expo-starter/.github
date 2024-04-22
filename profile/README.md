@@ -11,5 +11,5 @@ Your next React Native Expo project template optimized for performance (ios, and
 
 
 
-[Web App demo]( https://demo.launchtrack.dev) - [Web site]( https://launchtrack.dev)
+[Web App demo]( https://demo.launchtrack.dev) - [iOS Demo](https://appetize.io/app/norj4dwprifbk2dab5dfo6n2xq) - [Android Demo](https://appetize.io/app/cog3kwzczzchuy573agrthxrke) - [Web site]( https://launchtrack.dev)
 
