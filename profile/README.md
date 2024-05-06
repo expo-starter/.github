@@ -1,4 +1,4 @@
-## Launch Track 🚀
+## LaunchTrack 🚀
 
 ### The mobile Boilerplate for creating any iOS, Android and Web app in minutes.  🚀
 
