@@ -1,4 +1,4 @@
-## ExpoStarter 🚀
+## Expo Framework Starter Kit 🚀
 
 ### The mobile Starter Kit for creating any iOS, Android and Web app in minutes.  🚀
 
