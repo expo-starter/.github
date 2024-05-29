@@ -15,4 +15,4 @@
 
 
 Free template : 
-[Expo Starter](https://github.com/launchtrack/expo-starter)
+[Expo Local-First Template](https://github.com/launchtrack/expo-starter)
