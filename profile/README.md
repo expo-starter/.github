@@ -1,6 +1,6 @@
-## LaunchTrack 🚀
+## ExpoStarter 🚀
 
-### The mobile Boilerplate for creating any iOS, Android and Web app in minutes.  🚀
+### The mobile Starter Kit for creating any iOS, Android and Web app in minutes.  🚀
 
 - 🙋‍♀️ 10+ screens for most used features in mobile apps
 - 🌈 Tailwind univeral style and UI for Android, iOS and Web
