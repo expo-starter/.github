@@ -11,7 +11,7 @@
 - 🏠 Local-first integration with SQLite/IndexedDB
 
 
-[Get Launchtrack]( https://launchtrack.dev) [Web App demo]( https://demo.launchtrack.dev) - [iOS Demo](https://appetize.io/app/norj4dwprifbk2dab5dfo6n2xq) - [Android Demo](https://appetize.io/app/cog3kwzczzchuy573agrthxrke) - [Web site]( https://launchtrack.dev)
+[Get ExpoStarter]( https://expostarter.com) [Web App demo](https://quiztr.com) - [iOS Demo](https://appetize.io/app/norj4dwprifbk2dab5dfo6n2xq) - [Android Demo](https://appetize.io/app/cog3kwzczzchuy573agrthxrke) - [Web site]( https://expostarter.com)
 
 
 Free template : 
